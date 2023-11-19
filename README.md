@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there, 
+My name is Christian Castillo
+I am a CSU Graduate as of December of 2023
+Some of my recent projects were for senior design and building a UI in QT
+I'm currently learning more about the C++ coding language
+I am also in a team of 3 working on the development of a game in the Unreal game engine
+How to reach me: captaincastillo2001@gmail.com
 
 <!--
 **cdchrisdog1/cdchrisdog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
